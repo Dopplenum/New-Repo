@@ -1,2 +1,2 @@
 # New-Repo
-Simple yet futuristic repo
+Simple yet futuristic repo which provides help to other people
